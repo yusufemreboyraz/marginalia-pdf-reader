@@ -1,0 +1,110 @@
+/* Reading status */
+"status.unread"   = "Unread";
+"status.reading"  = "Reading";
+"status.finished" = "Finished";
+"status.wishlist" = "Wishlist";
+
+/* Theme mode */
+"theme.system"   = "System";
+"theme.light"    = "Light";
+"theme.paper"    = "Paper";
+"theme.ivory"    = "Ivory";
+"theme.espresso" = "Espresso";
+"theme.nocturne" = "Nocturne";
+"theme.dark"     = "Dark";
+
+/* Library scope */
+"scope.all" = "All Books";
+"scope.category" = "Category";
+
+/* Sidebar */
+"sidebar.categories" = "Categories";
+"sidebar.add_category" = "Add Category";
+"sidebar.category_name" = "Category name";
+"sidebar.delete" = "Delete";
+
+/* Library view */
+"library.empty.title" = "Library is empty";
+"library.empty.body"  = "Drag PDF files here or import with ⌘O.";
+"library.import" = "Import PDF";
+"library.import_short" = "Import";
+"library.search_placeholder" = "Search books, authors, notes";
+"library.sort" = "Sort";
+"library.view" = "View";
+
+/* Sort keys */
+"sort.added" = "Added";
+"sort.title" = "Title";
+"sort.author" = "Author";
+"sort.progress" = "Progress";
+
+/* Errors */
+"error.import_title" = "Import error";
+"error.not_pdf" = "Only PDF files are supported.";
+"error.unreadable" = "Could not read this PDF (it may be encrypted or corrupted).";
+"error.copy_failed_format" = "Could not copy file: %@";
+
+/* Common */
+"common.ok" = "OK";
+"common.back" = "Back";
+"common.go_back" = "Go Back";
+"common.delete" = "Delete";
+"common.cancel" = "Cancel";
+
+/* Reader */
+"reader.library_back" = "Library";
+"reader.page_format" = "Page %d / %d";
+"reader.highlight" = "Highlight";
+"reader.bookmark" = "Bookmark";
+"reader.notes" = "Notes";
+"reader.theme" = "Theme";
+"reader.could_not_open_format" = "Could not open PDF: %@";
+"reader.book_not_found" = "Book not found";
+"reader.single_page" = "Single Page";
+"reader.two_page" = "Two-Page Spread";
+"reader.show_original" = "Show Original PDF";
+"reader.show_reflow" = "Show Reflowed Text";
+
+/* Reflow mode */
+"reflow.page_marker_format" = "— %d —";
+"reflow.font.serif" = "Serif (New York)";
+"reflow.font.sans" = "Sans-Serif (SF Pro)";
+"reflow.font.mono" = "Monospace (SF Mono)";
+
+/* Notes panel */
+"notes.title" = "Notes";
+"notes.bookmarks" = "Bookmarks";
+"notes.highlights" = "Highlights & Notes";
+"notes.placeholder" = "Add margin note…";
+"notes.empty.title" = "No notes yet";
+"notes.empty.body"  = "Select text → ⌘H to highlight, or ⌘B to bookmark a page.";
+"notes.page_format" = "Page %d";
+
+/* Book detail */
+"book.continue" = "Continue";
+"book.read" = "Read";
+"book.title_placeholder" = "Title";
+"book.author_placeholder" = "Author";
+"book.status" = "Status";
+"book.progress" = "Progress";
+"book.not_started" = "Not started yet";
+"book.added" = "Added";
+"book.last_opened" = "Last opened";
+"book.pages" = "Pages";
+"book.file" = "File";
+"book.categories" = "Categories";
+"book.no_categories" = "Add a category from the sidebar.";
+"book.remove" = "Remove from library";
+"book.tab.info" = "Info";
+"book.tab.notes" = "Notes";
+"book.tab.highlights" = "Highlights";
+"book.notes_empty" = "No margin notes yet. Select a highlight and add a note.";
+"book.highlights_empty" = "No highlights yet. Select text while reading and press ⌘H.";
+
+/* Rating */
+"rating.stars_format" = "%d stars";
+
+/* Commands menu */
+"menu.theme" = "Theme";
+"menu.next_theme" = "Next Theme";
+"menu.language" = "Language";

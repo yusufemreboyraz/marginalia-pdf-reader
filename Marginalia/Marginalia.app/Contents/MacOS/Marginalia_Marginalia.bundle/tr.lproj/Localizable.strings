@@ -1,0 +1,110 @@
+/* Reading status */
+"status.unread"   = "Okunmadı";
+"status.reading"  = "Okunuyor";
+"status.finished" = "Bitti";
+"status.wishlist" = "İstek listesi";
+
+/* Theme mode */
+"theme.system"   = "Sistem";
+"theme.light"    = "Açık";
+"theme.paper"    = "Kâğıt";
+"theme.ivory"    = "Fildişi";
+"theme.espresso" = "Espresso";
+"theme.nocturne" = "Gece";
+"theme.dark"     = "Koyu";
+
+/* Library scope */
+"scope.all" = "Tüm Kitaplar";
+"scope.category" = "Kategori";
+
+/* Sidebar */
+"sidebar.categories" = "Kategoriler";
+"sidebar.add_category" = "Kategori Ekle";
+"sidebar.category_name" = "Kategori adı";
+"sidebar.delete" = "Sil";
+
+/* Library view */
+"library.empty.title" = "Kütüphane boş";
+"library.empty.body"  = "PDF dosyaları sürükleyip bırakın ya da ⌘O ile içe aktarın.";
+"library.import" = "PDF İçe Aktar";
+"library.import_short" = "İçe Aktar";
+"library.search_placeholder" = "Kitap, yazar, not ara";
+"library.sort" = "Sıralama";
+"library.view" = "Görünüm";
+
+/* Sort keys */
+"sort.added" = "Eklenme";
+"sort.title" = "Başlık";
+"sort.author" = "Yazar";
+"sort.progress" = "İlerleme";
+
+/* Errors */
+"error.import_title" = "İçe aktarma hatası";
+"error.not_pdf" = "Sadece PDF dosyaları desteklenir.";
+"error.unreadable" = "Bu PDF okunamadı (şifreli veya bozuk olabilir).";
+"error.copy_failed_format" = "Dosya kopyalanamadı: %@";
+
+/* Common */
+"common.ok" = "Tamam";
+"common.back" = "Geri";
+"common.go_back" = "Geri Dön";
+"common.delete" = "Sil";
+"common.cancel" = "İptal";
+
+/* Reader */
+"reader.library_back" = "Kütüphane";
+"reader.page_format" = "Sayfa %d / %d";
+"reader.highlight" = "Altını Çiz";
+"reader.bookmark" = "İşaret";
+"reader.notes" = "Notlar";
+"reader.theme" = "Tema";
+"reader.could_not_open_format" = "PDF dosyası açılamadı: %@";
+"reader.book_not_found" = "Kitap bulunamadı";
+"reader.single_page" = "Tek Sayfa";
+"reader.two_page" = "Çift Sayfa";
+"reader.show_original" = "Orijinal PDF'i Göster";
+"reader.show_reflow" = "Akıcı Metni Göster";
+
+/* Reflow mode */
+"reflow.page_marker_format" = "— %d —";
+"reflow.font.serif" = "Serif (New York)";
+"reflow.font.sans" = "Sans-Serif (SF Pro)";
+"reflow.font.mono" = "Monospace (SF Mono)";
+
+/* Notes panel */
+"notes.title" = "Notlar";
+"notes.bookmarks" = "İşaretler";
+"notes.highlights" = "Alıntılar & Notlar";
+"notes.placeholder" = "Kenar notu ekle…";
+"notes.empty.title" = "Henüz not yok";
+"notes.empty.body"  = "Metni seç → ⌘H ile altını çiz, ya da ⌘B ile sayfa işaretle.";
+"notes.page_format" = "Sayfa %d";
+
+/* Book detail */
+"book.continue" = "Devam Et";
+"book.read" = "Oku";
+"book.title_placeholder" = "Başlık";
+"book.author_placeholder" = "Yazar";
+"book.status" = "Durum";
+"book.progress" = "İlerleme";
+"book.not_started" = "Henüz okunmaya başlanmamış";
+"book.added" = "Eklenme";
+"book.last_opened" = "Son Açılış";
+"book.pages" = "Sayfa";
+"book.file" = "Dosya";
+"book.categories" = "Kategoriler";
+"book.no_categories" = "Sol kenardan kategori ekleyin.";
+"book.remove" = "Kütüphaneden Sil";
+"book.tab.info" = "Bilgi";
+"book.tab.notes" = "Notlar";
+"book.tab.highlights" = "Alıntılar";
+"book.notes_empty" = "Henüz kenar notu yok. Bir alıntıyı seç ve not ekle.";
+"book.highlights_empty" = "Henüz alıntı yok. Okurken metni seçip ⌘H ile altını çizebilirsin.";
+
+/* Rating */
+"rating.stars_format" = "%d yıldız";
+
+/* Commands menu */
+"menu.theme" = "Tema";
+"menu.next_theme" = "Sonraki Tema";
+"menu.language" = "Dil";
